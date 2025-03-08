@@ -15,6 +15,7 @@ pip install -r requirements.txt
 - **`main.py`** - Entry point for training and testing
 - **`q_learning.py`** - Q-learning algorithm implementation
 - **`config.py`** - Configuration and hyperparameters
+- **`visualize.py`** - Visualization of optimal path  
 - **`requirements.txt`** - List of required dependencies
 - **`README.md`** - Project documentation
 - **`Videos/`** - Video resources for visualization
