@@ -77,8 +77,8 @@ class GridWorld:
         cell = self.grid[next_state]
         return {
             "next_state": next_state,
-            "reward": cell.reward,  # 直接从 grid 中获取最新值
-            "done": cell.is_terminal,  # 直接从 grid 中获取最新值
+            "reward": cell.reward,  # Obtained form grid
+            "done": cell.is_terminal,
             "prob": 1.0
         }
 
