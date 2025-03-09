@@ -2,12 +2,8 @@
 A simplified Frozen Lake project using the Q-learning method
 
 ## 📦 Install Libraries
+
 pip install -r requirements.txt
-
-
-## 🌠 Grid World Example
-![Grid World example](images/GridWorld(5*5).jpg)
-
 
 ## 📂 Project Structure
 
@@ -22,3 +18,10 @@ pip install -r requirements.txt
   - `Optimal_path_1.mp4` - Sample optimal path animation
 - **`images/`** - Image resources
   - `grid_world.png` - Grid visualization
+
+
+## 🌠 Grid World Example
+
+![Grid World example](images/GridWorld(5*5).jpg)
+
+
