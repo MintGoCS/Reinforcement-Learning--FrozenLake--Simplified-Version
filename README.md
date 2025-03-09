@@ -1,9 +1,9 @@
-# Reinforcement-Learning--FrozenLake--Simplified-Version
-A simplified Frozen Lake project using the Q-learning method
+# Reinforcement-Learning-FrozenLake-Simplified-Version
+- A simplified Frozen Lake project using the Q-learning method
 
 ## 📦 Install Libraries
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## 📂 Project Structure
 
